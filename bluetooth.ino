@@ -7,7 +7,7 @@
 
 #include <ArduinoBLE.h>
 
-static const char* greeting = "Hello World!";
+static const char* greeting = "Informação Recebida";
 
 BLEService greetingService("180C");  // User defined service
 
